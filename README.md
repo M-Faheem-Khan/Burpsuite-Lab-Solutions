@@ -6,5 +6,6 @@ This repository contains my solutions for Burpsuite Labs.
 [Lab 2: SQL injection UNION attack, finding a column containing text](https://github.com/M-Faheem-Khan/Burpsuite-Lab-Solutions/blob/main/lab2.md)  
 [Lab 3: SQL injection UNION attack, retrieving data from other tables](https://github.com/M-Faheem-Khan/Burpsuite-Lab-Solutions/blob/main/lab3.md)  
 [Lab 4: SQL injection UNION attack, retrieving multiple values in a single column](https://github.com/M-Faheem-Khan/Burpsuite-Lab-Solutions/blob/main/lab4.md)  
+[Lab 5: SQL injection attack, querying the database type and version on Oracle](https://github.com/M-Faheem-Khan/Burpsuite-Lab-Solutions/blob/main/lab5.md)  
 
 <!-- EOF -->

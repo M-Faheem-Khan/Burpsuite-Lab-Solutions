@@ -1,4 +1,4 @@
-## LAB : SQL injection attack, querying the database type and version on Oracle
+## LAB 5: SQL injection attack, querying the database type and version on Oracle
 [SQL injection attack, querying the database type and version on Oracle](https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle)  
 **LEVEL**: PRACTITIONER  
 **Description**: This lab contains an SQL injection vulnerability in the product category filter. You can use a UNION attack to retrieve the results from an injected query.
